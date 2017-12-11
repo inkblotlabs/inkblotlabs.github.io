@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Inkblot Labs</title>
+    <link>http://inkblotlabs.org/</link>
+    <description>Recent content on Inkblot Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://inkblotlabs.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact Us</title>
+      <link>http://inkblotlabs.org/contact/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://inkblotlabs.org/contact/</guid>
+      <description>email: email@inkblotlabs.org
+Address: 550 Pocket C, SFS Flats, Sheikh Sarai Phase - I, New Delhi, India</description>
+    </item>
+    
+    <item>
+      <title>Our Inspiration - A Poem, an Idea</title>
+      <link>http://inkblotlabs.org/post/inspiration/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://inkblotlabs.org/post/inspiration/</guid>
+      <description>Words are arguably the most powerful invention of mankind. Someone who can bend language to his will with the power of his ideas, can influence entire generations.
+This has always been true. It is the reason Gutenberg&amp;rsquo;s press was such a powerful invention. It was responsible for the explosion of the Renaissance movement in Europe.
+It is words from which we too, seek inspiration. Words that have fired our imagination and compel us to turn a utopian dream a reality with whatever tools we have at our disposal.</description>
+    </item>
+    
+    <item>
+      <title>About Us</title>
+      <link>http://inkblotlabs.org/about_us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://inkblotlabs.org/about_us/</guid>
+      <description>Who are we? We are a dedicated team of people passionate about potential unlocked by bleeding edge technologies such as Artificial Intelligence, Machine learning, Blockchain, Augmented &amp; Virtual Reality. We believe that these technologies in combination with the Internet of Things will profoundly change the way we percieve and interact with the world around us.    AI, Blockchain, AR and IoT will usher in a new way of life and will unlock the next post-industrial revolution     So what does all this actually mean AI and ML today allow us to analyse data at scale, derive insights and predict the future with more reliability than ever before.</description>
+    </item>
+    
+  </channel>
+</rss>

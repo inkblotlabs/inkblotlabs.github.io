@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Inkblot Labs</title>
+    <link>http://inkblotlabs.org/post/</link>
+    <description>Recent content in Posts on Inkblot Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://inkblotlabs.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Inspiration - A Poem, an Idea</title>
+      <link>http://inkblotlabs.org/post/inspiration/</link>
+      <pubDate>Mon, 11 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://inkblotlabs.org/post/inspiration/</guid>
+      <description>Words are arguably the most powerful invention of mankind. Someone who can bend language to his will with the power of his ideas, can influence entire generations.
+This has always been true. It is the reason Gutenberg&amp;rsquo;s press was such a powerful invention. It was responsible for the explosion of the Renaissance movement in Europe.
+It is words from which we too, seek inspiration. Words that have fired our imagination and compel us to turn a utopian dream a reality with whatever tools we have at our disposal.</description>
+    </item>
+    
+  </channel>
+</rss>
